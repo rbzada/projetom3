@@ -1,0 +1,123 @@
+{
+    "cardapio": [
+      {
+        "id": 1,
+        "prato": "Raviolli",
+        "tempo de preparo": "25 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 2,
+        "prato": "Risoto",
+        "tempo de preparo": "30 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 3,
+        "prato": "Macarrão à putanesca",
+        "tempo de preparo": "32 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 4,
+        "prato": "Bistecca alla Fiorentina",
+        "tempo de preparo": "45 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      }
+    ],
+    "garcons" : [
+      {
+        "id" : 1 ,
+        "nome" : " Lucas " ,
+        "idade" : " 25 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      },
+      {
+        "id" : 2 ,
+        "nome" : " Allan " ,
+        "idade" : " 28 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      },
+      {
+        "id" : 3 ,
+        "nome" : " Lívia " ,
+        "idade" : " 23 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      },
+      {
+        "id" : 4 ,
+        "nome" : " Fernando " ,
+        "idade" : " 20 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      }
+     
+    ],
+    "chefs" : [
+      {
+        "id" : 1 ,
+        "nome" : " chef principal " ,
+        "idade" : " 45 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" :" verdadeiro"
+      },
+      {
+        "id" : 2 ,
+        "nome" : " sub-chef " ,
+        "idade" : " 34 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      },
+      {
+        "id" : 3 ,
+        "nome" : " trainee " ,
+        "idade" : " 27 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" :" verdadeiro"
+      },
+      {
+        "id" : 4 ,
+        "nome" : " cozinheiro " ,
+        "idade" : " 30 anos " ,
+        "carga horária" : " 20:00 - 02:00 " ,
+        "estado" : "verdadeiro"
+      }
+    ],
+    "sobremesas": [
+      {
+        "id": 1,
+        "prato": "Panna Cotta",
+        "sobre": "Sobremesa de creme cozido e saborizado com baunilha. Textura super delicada e adocicada.",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 2,
+        "prato": "Cannolli",
+        "Sobre": "Massa doce frita, recheada com creme de queijo ricota com baunilha, pistache, chocolate ou frutas cristalizadas.",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 3,
+        "prato": "Zabaglione",
+        "Sobre": "Formado por: gemas, açucar e vinho marsala. Servido em uma taça, em que pode ser adicionado frutas picadas de sua preferências.",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 4,
+        "prato": "Bomboloni",
+        "Sobre": "Com uma massa parecida com um donut, porém sem buraco algum. pode ser recheado com creme de confeiteiro ou ganache. ",
+        "serve até": "1 pessoa",
+        "status": true
+      }
+    ]
+  }
